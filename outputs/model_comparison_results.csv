@@ -1,0 +1,8 @@
+Model,MAE,RMSE,MAPE
+Improved Random Forest v2,8115.24,9888.69,13.57
+4-Week Moving Average,8515.63,11447.59,13.59
+Random Forest v1,8088.06,9775.37,13.73
+Naive Baseline,9066.0,11766.36,13.81
+Exponential Smoothing,8999.71,11217.75,14.18
+ARIMA,9182.32,10774.26,15.38
+Seasonal Naive,9240.69,11577.37,17.06
